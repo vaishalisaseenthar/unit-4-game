@@ -1,0 +1,31 @@
+.instructions {
+	background-color: #64D5A2;
+	padding: 20px;
+	float: left;
+	width: 40%;
+	margin-bottom: 20px;
+}
+
+.score-div {
+	clear: left;
+	background-color: #1CC3E5;
+	float: left;
+	width: 10%;
+	height: 10%;
+}
+
+.results {
+	clear: left;
+	background-color: #1CC3E5;
+}
+
+.crystal-image {
+	display: inline-block;
+	clear: left;
+	margin: 5px;
+	background-color: #1CC3E5;
+}
+
+.total-score {
+	background-color: #1CC3E5;
+}
